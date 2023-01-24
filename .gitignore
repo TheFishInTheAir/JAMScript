@@ -26,6 +26,9 @@ node_modules/*
 config.log
 
 node_modules/
+idf_build/
+package-lock.json
+tinycbor/
 
 **/output/main
 build/
